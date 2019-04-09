@@ -1,0 +1,6 @@
+actions\SortByPrice.class
+actions\WebElements.class
+actions\CompleteTask.class
+actions\PageObjects.class
+runner\RunCukeTests.class
+steps\ShopingSteps.class
